@@ -7,6 +7,7 @@ public class Main {
   int countp = 0;
   int countn = 0;
   int countz = 0;
+  Scanner sc = new Scanner(System.in);
   do{
   System.out.print("Enter any number : ");
   num = sc.nextDouble();
