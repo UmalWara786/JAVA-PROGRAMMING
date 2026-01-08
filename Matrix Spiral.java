@@ -1,5 +1,6 @@
 import java.util.Scanner;
 public class Arrays {
+public static void main(String[] args) {
 //Spiral order matrix
 Scanner sc = new Scanner(System.in);
 System.out.println("Enter order of matrix (m*n)");
