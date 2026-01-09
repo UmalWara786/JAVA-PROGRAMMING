@@ -1,7 +1,8 @@
 public class Pattern_Programs {
     public static void main(String[] args) {
 //Pattern Problems Solution
-      
+//Nested For loop Concept
+        
 //Solid Rectangle
  int rows = 4, coloums = 5;
 //Rows
@@ -14,7 +15,7 @@ public class Pattern_Programs {
  }
 
 //Hollow Rectangle
-rows = 4, coloums = 5;
+rows = 4; coloums = 5;
 //Rows
 for (int i = 1; i <= rows; i++) {
 //Coloumns
@@ -29,7 +30,7 @@ for (int i = 1; i <= rows; i++) {
 } 
 
 //Half Pyramid
- rows = 4, coloums = 5;
+ rows = 4; coloums = 5;
 //Rows     
   for (int i = 1; i <= rows; i++) {
 //Coloumns
@@ -51,7 +52,7 @@ for (int i = 1; i < r; i++) {
 }
       
 //Inverted Half Pyramid
-rows = 4, coloums = 5;
+rows = 4; coloums = 5;
 //Rows        
 for (int i = rows; i >= 1; i--) {
 //Coloumns
@@ -73,7 +74,7 @@ int c = 6;
  }
       
 //Inverted Half Pyramid (Rotated at 180 deg)
-rows = 4, coloums = 5; 
+rows = 4; coloums = 5; 
  for (int i = 1; i <= rows; i += 1) {
      //Inner loop -> Space print
      for (int j = 1; j <= rows - i; j++) {
