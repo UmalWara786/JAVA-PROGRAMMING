@@ -1,6 +1,7 @@
 public class Print_Patterns {
     public static void main(String[] args) {
-// Advance Patterns Solutions
+// Advance Patterns Solution
+// Nested For Loop Concepts
       
 // Hollow Butterfly
 int stars=5;
