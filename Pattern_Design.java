@@ -1,6 +1,7 @@
 public class Pattern_Design. {
     public static void main(String[] args) {
-//Printing Patterns
+//Patterns Solutions
+//Nested For Loop Concepts
       
 // Solid Rhombus
  int stars = 5;
