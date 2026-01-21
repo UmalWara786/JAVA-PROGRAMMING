@@ -53,4 +53,5 @@ colStart++;
 System.out.println();
         }
 }
+    sc.close();
 }
