@@ -40,6 +40,7 @@ for(int i=0; i<m; i++){
 }
 if(!found)
     System.out.println("Invalid value!");
+        
         sc.close();
     }
 }
