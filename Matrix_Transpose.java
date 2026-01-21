@@ -32,4 +32,5 @@ System.out.print(transpose[j][i] + " ");
 System.out.println();
         }
 }
+  sc.close();
 }
