@@ -52,6 +52,6 @@ System.out.print(spiral[row][colStart]+" ");
 colStart++;
 System.out.println();
         }
-}
     sc.close();
+}
 }
