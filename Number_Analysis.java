@@ -33,6 +33,7 @@ public class Number_Analysis {
  System.out.println(countn);
  System.out.print("The  number of zeros entered : ");
  System.out.println(countz);
+        sc.close();
 
     }
 }
