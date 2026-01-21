@@ -34,4 +34,5 @@ System.out.println("Sorted in Ascending order");}
        System.out.println("Neither in Ascending nor in Descending order");
         }
     }
+    sc.close();
 }
