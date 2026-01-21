@@ -34,5 +34,6 @@ int attempts = 0;
   else
   System.out.println("Good!");
          }
+ sc.close();
             }
         }
